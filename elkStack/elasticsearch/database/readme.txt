@@ -1,0 +1,1 @@
+Dentro de compose.yaml está configurada esta ruta, como la ruta de la bbdd.
